@@ -1,0 +1,4 @@
+Dastur nomi: Yuksalish
+Dastur maqsadi: tajriba
+Dastur foydalanuvchilari: Foydalanuvchi va tekshiruvchilar, maximum 10 kishi
+Dastur tuzilishi: Html, CSS va Java script yordamida
